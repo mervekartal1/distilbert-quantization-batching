@@ -1,4 +1,4 @@
-   artifacts/
-   .ipynb_checkpoints/
-   __pycache__/
-   *.pt
+artifacts/
+.ipynb_checkpoints/
+__pycache__/
+*.pt
