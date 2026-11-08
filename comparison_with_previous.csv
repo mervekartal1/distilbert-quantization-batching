@@ -1,0 +1,5 @@
+﻿Kaynak,Accuracy %,P50 ms,P95 ms,Std ms,Throughput,Dosya MB
+"FP32 (önceki) [kodu yok, referans]",91.2,238.547,252.402,10.587,66.897,255.43
+"INT8 (önceki) [kodu yok, referans]",90.8,79.139,83.824,2.632,200.954,132.29
+"FP32 (yeni, batch=16)",91.2,230.447,237.535,6.484,69.701,267.86
+"INT8 (yeni, batch=16)",90.8,77.325,89.767,4.812,204.837,138.72

@@ -1,0 +1,18 @@
+{
+  "isletim_sistemi": "Windows 10",
+  "islemci": "AMD64 Family 26 Model 96 Stepping 0, AuthenticAMD",
+  "fiziksel_cekirdek": 8,
+  "mantiksal_cekirdek": 16,
+  "toplam_ram_gb": 16.3,
+  "torch_is_parcacigi": 8,
+  "cihaz": "CPU",
+  "gpu_var_ama_kullanilmiyor": false,
+  "bellek_olcum_yontemi": "psutil memory_info().rss (Windows Working Set) + peak_wset",
+  "python": "3.11.18",
+  "torch": "2.15.0+cpu",
+  "transformers": "5.22.1",
+  "datasets": "5.1.0",
+  "numpy": "2.4.6",
+  "pandas": "3.1.0",
+  "psutil": "7.2.2"
+}
